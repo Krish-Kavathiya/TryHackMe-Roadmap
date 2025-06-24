@@ -52,9 +52,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [✅] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [✅] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
@@ -78,9 +78,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [✅] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [✅] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 - [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
@@ -100,7 +100,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [✅] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
